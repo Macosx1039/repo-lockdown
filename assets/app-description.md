@@ -46,7 +46,3 @@ lock: true
 # Repository to extend settings from
 # _extends: repo
 ```
-
-## Supporting the Project
-
-The continued development of Repo Lockdown is made possible thanks to the support of awesome backers. If you'd like to join them, please consider contributing with [Patreon](https://www.patreon.com/dessant), [PayPal](https://www.paypal.me/ArminSebastian) or [Bitcoin](https://goo.gl/uJUAaU).
