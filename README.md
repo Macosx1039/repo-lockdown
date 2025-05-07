@@ -5,13 +5,6 @@ that closes and locks new and existing issues or pull requests.
 It is used for repositories which do not accept issues or pull requests,
 such as forks or mirrors.
 
-## Supporting the Project
-
-The continued development of Repo Lockdown is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with [Patreon](https://www.patreon.com/dessant),
-[PayPal](https://www.paypal.me/ArminSebastian) or [Bitcoin](https://goo.gl/uJUAaU).
-
 ## Usage
 
 1. **[Install the GitHub App](https://github.com/apps/repo-lockdown)**
